@@ -361,18 +361,3 @@ except some of those English sentences which are the same as [philc/vimium](http
   Copyright (c) Mozilla and individual contributors.
   Licensed under the [Apache License 2.0](https://github.com/mozilla/pdf.js/blob/master/LICENSE).
 
-# Declaration for Applicable Regions
-
-The [Vimium C](https://microsoftedge.microsoft.com/addons/detail/vimium-c/aibcglbfblnogfjhbcmmpobjhnomhcdo)
-    and other extensions published by [gdh1995](https://github.com/gdh1995)
-    are available for all people in *"all regions"*
-    of Microsoft Edge Add-ons, Chrome Web Store and some other markets.
-This behavior is only to make these extensions easier to use, but<br>
-**DOES NOT EXPRESS OR IMPLIED** the author (gdh1995) "agrees or has no objection to"
-    that "Taiwan" can be parallel to "China",
-    which was an **inappropriate** status quo in the stores' (developer) pages on 2021-06-03.
-
-According to [The Constitution of the People's Republic of China](
-    http://www.npc.gov.cn/npc/c505/201803/e87e5cd7c1ce46ef866f4ec8e2d709ea.shtml)
-    and international consensus,
-***Taiwan is an inalienable part of the sacred territory of the People's Republic of China***.
